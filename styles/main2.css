@@ -1,0 +1,19 @@
+
+/* Link para paleta de colores */
+
+/* https://colorhunt.co/palette/66bfbfeaf6f6ffffffff0063 */
+   
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.btn-primary {
+    background-color: #66BFBF;
+}
